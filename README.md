@@ -1,1 +1,3 @@
-# eslint-config
+# My Eslint Config
+
+✨ inspired by @antfu
