@@ -1,0 +1,13 @@
+{
+  "name": "@nauxscript/eslint-config",
+  "version": "0.0.1",
+  "description": "A Self-use Eslint Config, Made by Nauxscript.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["eslint-config"],
+  "author": "Nauxscript",
+  "license": "MIT",
+  "homepage": "https://github.com/Nauxscript/eslint-config"
+}
