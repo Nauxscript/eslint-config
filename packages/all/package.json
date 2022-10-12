@@ -3,11 +3,17 @@
   "version": "0.0.1",
   "description": "A Self-use Eslint Config, Made by Nauxscript.",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
+  "files": [
+    "index.js"
+  ],
   "keywords": ["eslint-config"],
   "author": "Nauxscript",
   "license": "MIT",
-  "homepage": "https://github.com/Nauxscript/eslint-config"
+  "homepage": "https://github.com/Nauxscript/eslint-config",
+  "dependencies": {
+    "@nauxscript/eslint-config-vue3": "workspace:*"
+  },
+  "devDependencies": {
+    "eslint": "^8.25.0"
+  }
 }

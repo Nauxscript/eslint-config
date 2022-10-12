@@ -1,5 +1,5 @@
 module.exports = {
   extends: [
-    '@nauxscript/eslint-config-vue'
+    '@nauxscript/eslint-config-vue3'
   ]
 };

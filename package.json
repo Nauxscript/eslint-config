@@ -11,8 +11,9 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
+    "@nauxscript/eslint-config": "workspace:*",
     "bumpp": "^8.2.1",
-    "eslint": "^8.0.1",
+    "eslint": "^8.25.0",
     "typescript": "^4.8.4"
   }
 }
