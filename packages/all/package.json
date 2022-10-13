@@ -1,12 +1,14 @@
 {
   "name": "@nauxscript/eslint-config",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A Self-use Eslint Config, Made by Nauxscript.",
   "main": "index.js",
   "files": [
     "index.js"
   ],
-  "keywords": ["eslint-config"],
+  "keywords": [
+    "eslint-config"
+  ],
   "author": "Nauxscript",
   "license": "MIT",
   "homepage": "https://github.com/Nauxscript/eslint-config",
