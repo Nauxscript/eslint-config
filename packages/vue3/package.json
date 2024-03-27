@@ -1,6 +1,6 @@
 {
   "name": "@nauxscript/eslint-config-vue3",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "",
   "main": "index.js",
   "files": [
@@ -9,8 +9,20 @@
   "keywords": [
     "eslint-config"
   ],
-  "author": "nauxscript",
+  "author": {
+    "name": "nauxscript",
+    "url": "https://github.com/Nauxscript"
+  },
+  "repository": "https://github.com/Nauxscript/eslint-config",
+  "homepage": "https://github.com/Nauxscript/eslint-config",
+  "bugs": {
+    "url": "https://github.com/Nauxscript/eslint-config/issues"
+  },
   "license": "MIT",
+  "peerDependencies": {
+    "@nauxscript/bilive": "^0.0.4",
+    "@nauxscript/components": "^0.0.4"
+  },
   "dependencies": {
     "@nauxscript/eslint-config-typescript": "workspace:*"
   },
