@@ -24,7 +24,9 @@
     "@nauxscript/components": "^0.0.4"
   },
   "dependencies": {
-    "@nauxscript/eslint-config-typescript": "workspace:*"
+    "@nauxscript/eslint-config-typescript": "workspace:*",
+    "@nauxscript/bilive": "^0.0.4",
+    "@nauxscript/components": "^0.0.4"
   },
   "devDependencies": {
     "eslint": "^8.25.0"
