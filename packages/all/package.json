@@ -1,6 +1,6 @@
 {
   "name": "@nauxscript/eslint-config",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "description": "A Self-use Eslint Config, Made by Nauxscript.",
   "main": "index.js",
   "files": [
